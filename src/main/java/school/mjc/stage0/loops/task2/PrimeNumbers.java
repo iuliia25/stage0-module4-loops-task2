@@ -8,9 +8,9 @@ public class PrimeNumbers {
             while (i < count) {
                 if (count / i == 0) {
                 }
-                System.out.println(count);
                 i ++;
             }
+            System.out.println(count);
             count ++;
         }
 
